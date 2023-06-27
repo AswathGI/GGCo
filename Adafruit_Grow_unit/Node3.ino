@@ -1,3 +1,11 @@
+/******************************************************************************
+*                              Programmer Bio                                 *
+*******************************************************************************
+* Programmer Name    : Aswath GI
+* Date of Creation   : Oct 2022
+* Description        : This program is for the NodeMCU fitted at the Grow Unit
+*******************************************************************************/
+
 #include<ESP8266WiFi.h>
 #include "Adafruit_MQTT_Client.h"
 
